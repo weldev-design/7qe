@@ -196,7 +196,7 @@ h2 { font-size: clamp(40px, 5vw, 65px); letter-spacing: -2px; }
 footer { width: min(1180px, 90%); margin: auto; padding: 35px 0; border-top: 1px solid var(--line); display: flex; align-items: center; justify-content: space-between; color: var(--muted); font-size: 10px; }
 footer .brand { color: var(--text); transform: scale(.85); transform-origin: right; }
 .footer-credits { display: flex; flex-direction: column; align-items: center; gap: 7px; }
-.footer-credits img { display: block; width: 145px; height: 55px; object-fit: contain; filter: invert(34%) sepia(100%) saturate(4212%) hue-rotate(353deg) brightness(104%) contrast(105%) drop-shadow(0 0 5px rgba(255,59,10,.3)); }
+.footer-credits img { display: block; width: 230px; height: 100px; object-fit: contain; filter: invert(34%) sepia(100%) saturate(4212%) hue-rotate(353deg) brightness(104%) contrast(105%) drop-shadow(0 0 5px rgba(255,59,10,.3)); }
 
 @media (max-width: 850px) {
   .site-header { height: 78px; }
